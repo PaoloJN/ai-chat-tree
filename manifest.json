@@ -1,0 +1,9 @@
+{
+	"id": "ai-chat-tree",
+	"name": "AI Chat Tree",
+	"author": "Paolo Nessim",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Create branching GPT/SearchAI chats using Obsidian canvas",
+	"isDesktopOnly": true
+}
